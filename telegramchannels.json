@@ -33,7 +33,6 @@
     "canfigv2ray",
     "catvpns",
     "cconfig_v2ray",
-    "change_ip1",
     "city_v2rayng",
     "config_green",
     "config_rayegan",
@@ -104,6 +103,7 @@
     "hopev2ray",
     "hormozvpn",
     "i10vpn",
+    "iproxychannel",
     "iran_v2ray1",
     "iseqaro",
     "isvvpn",
@@ -157,6 +157,7 @@
     "spdnet",
     "spikevpn",
     "srcvpn",
+    "ssrsub",
     "summertimeus",
     "sunflowerplato",
     "surfboardv2ray",
@@ -202,7 +203,6 @@
     "v2ryngfree",
     "v2wray",
     "v_2rayngvpn",
-    "vemessvpn",
     "vipv2rey",
     "vistav2ray",
     "viturey",
@@ -229,5 +229,6 @@
     "vpnstorefast",
     "vpnxyam_ir",
     "xpnteam",
-    "zdyz2"
+    "zdyz2",
+    "zedbaz_vpn"
 ]
