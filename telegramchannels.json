@@ -111,6 +111,7 @@
     "msv2flyng",
     "msv2ray",
     "n2vpn",
+    "netifyvpn",
     "netmellianti",
     "nim_vpn_ir",
     "noforcedheaven",
@@ -122,6 +123,7 @@
     "pardazeshvpn",
     "parsashonam",
     "ppal03",
+    "prime_verse",
     "privatevpns",
     "proxie",
     "proxyfull",
@@ -146,6 +148,7 @@
     "tehranargo1",
     "thunderv2ray",
     "tik7net_vpn",
+    "tokavpn",
     "tv_v2ray",
     "unlimiteddev",
     "v2_city",
@@ -160,7 +163,6 @@
     "v2ray_cartel",
     "v2ray_fark",
     "v2ray_god",
-    "v2ray_ng",
     "v2ray_one1",
     "v2rayargon",
     "v2raybaaz",
@@ -206,6 +208,5 @@
     "vpnstorefast",
     "vpnxyam_ir",
     "xpnteam",
-    "zdyz2",
-    "zedbaz_vpn"
+    "zdyz2"
 ]
